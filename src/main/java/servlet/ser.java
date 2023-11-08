@@ -1,4 +1,4 @@
-package java.servlet;
+package servlet;
 
 public class ser {
 }
